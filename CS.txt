@@ -6,8 +6,9 @@ DATA AND SECURITY
 
 => DATA INTEGRITY :  
 
-=> DATA PRIVACY
+=> DATA PRIVACY :
 
-=> DATA PROTECTION
+=> DATA PROTECTION :
 
+====================================================================================================================================================
 
