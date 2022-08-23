@@ -1,0 +1,8 @@
+========================================================================
+23/08/2022 - tuesday
+
+| RTO and RPO|
+
+Recovery Time Objective is the measure of how quickly will the systems be back in case of failure.
+
+Recovery Point Objective refers to how much data loss your application can afford.
